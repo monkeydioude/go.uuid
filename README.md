@@ -1,3 +1,10 @@
+# THIS REPO HAS BEEN ARCHIVED
+
+**This fork was made for creating a tag 2.0.0 of the current master branch from original satori/go.uuid while waiting for any news from the creator. Please use instead the community maintened fork: https://github.com/gofrs/uuid**
+
+
+
+
 # UUID package for Go language
 
 [![Build Status](https://travis-ci.org/satori/go.uuid.svg?branch=master)](https://travis-ci.org/satori/go.uuid)
